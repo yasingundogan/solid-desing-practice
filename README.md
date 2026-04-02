@@ -1,1 +1,1 @@
-# solid-desing-practice for lab session assestment
+# solid-desing-practice for lab session assessment
