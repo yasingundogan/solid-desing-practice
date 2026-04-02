@@ -1,0 +1,4 @@
+interface Device
+{
+void operation();
+}
